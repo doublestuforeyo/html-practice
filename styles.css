@@ -2,6 +2,8 @@ body
 {
     background-color: black;
     background-image: url("https://i.pinimg.com/736x/58/30/13/58301359715f994db16bed3ce2dfb108.jpg");
+    height: 100%;
+    width: 100%;
 }
 
 .content
