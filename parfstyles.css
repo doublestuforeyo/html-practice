@@ -1,0 +1,25 @@
+body 
+{
+    background-image: url(https://i.pinimg.com/736x/82/88/1d/82881d07a03758e4a1953e310d663b50.jpg);
+    width: 50%;
+    height: 50%;   
+}
+
+#img1
+{
+    border-radius: 10%;
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    border: 3px solid #f30085;
+}
+
+.div1
+{
+    background-color: black;
+    border-radius: 5%;
+    border: 3px solid #f30085;
+    margin: 30px;
+    width: 1400px;
+}
+
