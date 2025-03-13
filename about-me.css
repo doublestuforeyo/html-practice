@@ -5,8 +5,14 @@ body{
 h1{
     font-family: "Lucida Console", "Courier New", monospace;
     color: white;
-    grid-column: 2;
     font-size: 40px;
+    text-align: center;
+    text-shadow: 3px 3px#920509;
+}
+
+p, a{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #header{
@@ -15,6 +21,7 @@ h1{
         background-color: black;
         border: 3px solid #920509;
         display: grid;
+        border-radius: 30%;
     }
 
 #intro-cont{
@@ -52,13 +59,69 @@ h1{
     flex-wrap: wrap;
 }
 
+.descs{
+    text-align: center;
+    font-size: smaller;
+    line-height: 1.5;
+}
+
+.buttons{
+    color: white;
+    background-color: aliceblue;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 #cool-cont{
     display: grid;
+    column-gap: 30px;
+    grid-template-columns: 33%, 34%, 33%;
+    width: 100%;
 }
 
 #art{
-    margin-left: 30px;
-    margin-right: 30px;
     background-color: black;
     border: 3px solid #920509;
+    grid-column: 1;
+    margin-left: 30px;
+}
+
+#art-pic{
+    width: 300px;
+    height: 400px;
+    border: 3px solid #920509;
+    display: block;
+    border-radius: 10%;
+}
+
+#robotics{
+    grid-column: 2;
+    background-color: black;
+    border: 3px solid #920509;
+}
+
+#robot-pic{
+    width: 325px;
+    height: 325px;
+    border: 3px solid #920509;
+    border-radius: 10%;
+}
+
+#music{
+    grid-column: 3;
+    background-color: black;
+    border: 3px solid #920509;
+    margin-right: 30px;
+}
+
+#music-pic{
+    width: 300px;
+    height: 400px;
+    border: 3px solid #920509;
+    border-radius: 10%;
 }
