@@ -1,14 +1,14 @@
-let normal = "file:///Users/zariyascullark/Documents/Screenshot%202025-03-14%20at%208.51.59%E2%80%AFAM.png"
-let sleep = "file:///Users/zariyascullark/Documents/Screenshot%202025-03-14%20at%209.49.58%E2%80%AFAM.png";
-let silly = "file:///Users/zariyascullark/Documents/Screenshot%202025-03-14%20at%209.51.42%E2%80%AFAM.png";
-let alien = "file:///Users/zariyascullark/Downloads/IMG_1123.jpg";
-let proper = "file:///Users/zariyascullark/Documents/Screenshot%202025-03-14%20at%2010.17.04%E2%80%AFAM.png"
-let bunny = "file:///Users/zariyascullark/Documents/Screenshot%202025-03-14%20at%2010.05.22%E2%80%AFAM.png"
-let evil = "file:///Users/zariyascullark/Documents/Screenshot%202025-03-14%20at%2010.06.49%E2%80%AFAM.png"
-let clean = "file:///Users/zariyascullark/Downloads/7BFB4C82-19A7-4CE4-8C98-0FC35FB87BB6.JPG"
-let loaf = "file:///Users/zariyascullark/Documents/Screenshot%202025-03-14%20at%2010.08.36%E2%80%AFAM.png"
-let suitcase = "file:///Users/zariyascullark/Documents/Screenshot%202025-03-14%20at%2010.09.26%E2%80%AFAM.png"
-let autism = "file:///Users/zariyascullark/Documents/Screenshot%202025-03-14%20at%2010.10.43%E2%80%AFAM.png"
+let normal = "images/normal-cat.jpg";
+let sleep = "images/sleep-cat.jpg";
+let silly = "images/silly-cat.jpg";
+let alien = "images/alien-cat.jpg";
+let proper = "images/fancy-cat.jpg"
+let bunny = "images/bunny-cat.jpg"
+let evil = "images/evil-cat.jpg"
+let clean = "images/clean-cat.jpg"
+let loaf = "images/loaf-cat.jpg"
+let suitcase = "images/suitcase-cat.jpg"
+let autism = "images/autism-cat.jpg"
 
 let astrids = [normal, sleep, silly, alien, proper, bunny, evil, clean, loaf, suitcase, autism];
 
