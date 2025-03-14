@@ -20,6 +20,13 @@ function changeImg(){
         num = 0;
     }
 
+    console.log(num);
+    document.getElementById('cat-pic').src = astrids[num];
+
+    if (num == 0){
+        document.getElementById('astrid').innerHTML = "Astrid";
+    }
+
     if (num == 1){
         document.getElementById('astrid').innerHTML = "Sleepy Astrid";
     }
@@ -28,7 +35,36 @@ function changeImg(){
         document.getElementById('astrid').innerHTML = "Silly Astrid";
     }
 
-    console.log(num);
-    document.getElementById('cat-pic').src = astrids[num];
+    if (num == 3){
+        document.getElementById('astrid').innerHTML = "Alien Astrid";
+    }
+
+    if (num == 4){
+        document.getElementById('astrid').innerHTML = "Fancy Astrid";
+    }
+
+    if (num == 5){
+        document.getElementById('astrid').innerHTML = "Bunny Astrid";
+    }
+
+    if (num == 6){
+        document.getElementById('astrid').innerHTML = "Evil Astrid";
+    }
+
+    if (num == 7){
+        document.getElementById('astrid').innerHTML = "Clean Astrid";
+    }
+
+    if (num == 8){
+        document.getElementById('astrid').innerHTML = "Loaf Astrid";
+    }
+
+    if (num == 9){
+        document.getElementById('astrid').innerHTML = "Suitcase Astrid";
+    }
+
+    if (num == 10){
+        document.getElementById('astrid').innerHTML = "Dumb Astrid";
+    }
 
 }

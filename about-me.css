@@ -170,6 +170,7 @@ p, a{
     border-radius: 5%;
     border: 3px solid #920509;
     height: 50px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #cat-desc-2{
@@ -177,4 +178,8 @@ p, a{
     text-align: left;
     font-size: 20px;
     line-height: 1.5;
+}
+
+#astrid{
+    font-weight: bold;
 }
