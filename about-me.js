@@ -1,14 +1,14 @@
-let normal = "images/normal-cat.jpg";
-let sleep = "images/sleep-cat.jpg";
-let silly = "images/silly-cat.jpg";
+let normal = "images/normal-cat.png";
+let sleep = "images/sleep-cat.png";
+let silly = "images/silly-cat.png";
 let alien = "images/alien-cat.jpg";
-let proper = "images/fancy-cat.jpg"
-let bunny = "images/bunny-cat.jpg"
-let evil = "images/evil-cat.jpg"
-let clean = "images/clean-cat.jpg"
-let loaf = "images/loaf-cat.jpg"
-let suitcase = "images/suitcase-cat.jpg"
-let autism = "images/autism-cat.jpg"
+let proper = "images/fancy-cat.png";
+let bunny = "images/bunny-cat.png";
+let evil = "images/evil-cat.png";
+let clean = "images/clean-cat.jpg";
+let loaf = "images/loaf-cat.png";
+let suitcase = "images/suitcase-cat.png";
+let autism = "images/autism-cat.png";
 
 let astrids = [normal, sleep, silly, alien, proper, bunny, evil, clean, loaf, suitcase, autism];
 
